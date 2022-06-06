@@ -1,3 +1,6 @@
+
+![](https://komarev.com/ghpvc/?username=integriz) 
+
 <div align="center"><h3>Olá! Eu sou Marcos Marques, desenvolvedor de sistemas.</h3></div>
 
 <div align="center">
@@ -15,6 +18,9 @@
   <img align="center" alt="MM-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="MM-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+  
+
+  
   
  
  
